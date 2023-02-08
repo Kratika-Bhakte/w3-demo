@@ -1,5 +1,2 @@
 # w3-demo
-Hey!!!
-helllo
-Namaste 
-Jai Shree Krishna
+Readme File of image branch
